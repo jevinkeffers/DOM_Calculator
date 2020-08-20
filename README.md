@@ -15,7 +15,7 @@ Might add more funcionality at another time.
 HTML, CSS, JS
 
 ## Screenshots
-![Final product]()
+![Final product](https://github.com/jevinkeffers/DOM_Calculator/blob/master/Images/Screen%20Shot%202020-08-20%20at%203.41.20%20PM.jpg)
 
 ## Tests
 Various console logs to test in the dom that our arrays were doing what we needed, various iteration and order of operation tests.
