@@ -1,9 +1,9 @@
 'use strict';
 
-// PEMDAS
+// // PEMDAS
 
-const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
-const ops = ['*', '/', '+', '-']
+// const nums = [1, 2, 3, 4, 5, 6, 7, 8, 9, 0];
+// const ops = ['*', '/', '+', '-']
 
 // const display = document.getElementById("input");
 // const numKeys = document.querySelectorAll(".number");
