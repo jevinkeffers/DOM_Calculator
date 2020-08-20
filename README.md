@@ -6,18 +6,16 @@ We were given instructions:
 
 https://gist.github.com/seanrreid/bcc0f5a97e10a551232e758b7ef2fa96
 
-and put into groups. Not includded in the instructions were any CSS enhancements to make it look like a real calculator, so we spent extra time doing that before moving on to the JS functionality, which was more of a class-group project. 
-
+And put into groups. Not includded in the instructions were any CSS enhancements to make it look like a real calculator, so we spent extra time doing that before moving on to the JS functionality, which was more of a class-group project. 
 
 ## Build status
-Might add more funcionality down the line.
+Might add more funcionality at another time.
 
 ## Code style
 HTML, CSS, JS
- 
+
 ## Screenshots
-
-
+![Final product]()
 
 ## Tests
 Various console logs to test in the dom that our arrays were doing what we needed, various iteration and order of operation tests.
@@ -30,3 +28,5 @@ Jai Gokhale: https://github.com/jmg5219
 Harmony Travena: https://github.com/harmonytrevena
 Shaiah Wren: https://github.com/ShaiahWren
 Myself: https://github.com/jevinkeffers
+Google Fonts
+The Atlanta Falcons color scheme
